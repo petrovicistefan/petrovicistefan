@@ -108,5 +108,3 @@ I can help with:
 🌐 [petrovicistefan.ro](https://petrovicistefan.ro)
 
 💼 [LinkedIn](https://www.linkedin.com/in/stefanpetrovici/)
-
-📧 [hello@petrovicistefan.ro](mailto:hello@petrovicistefan.ro)
