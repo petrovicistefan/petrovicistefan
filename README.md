@@ -68,6 +68,18 @@ Building and validating B2B products around **automation, payments, operations a
 
 ---
 
+### 🛡️ Open Source MCP Ecosystem
+
+Building six open-source MCP developer tools for security, dependencies, APIs, databases, cost optimization and SEO.
+
+[![MCP Ecosystem adoption metrics](assets/mcp-ecosystem-stats.svg)](https://petrovicistefan.github.io/mcp-marketplace/analytics/)
+
+📊 [Live MCP Analytics](https://petrovicistefan.github.io/mcp-marketplace/analytics/) · 🧩 [MCP Marketplace](https://github.com/petrovicistefan/mcp-marketplace)
+
+*The card updates daily from public npm and GitHub snapshots. Downloads are not unique users.*
+
+---
+
 ## Experience
 
 I've worked on software products across:
