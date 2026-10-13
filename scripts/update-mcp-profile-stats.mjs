@@ -9,7 +9,7 @@ const snapshots=await Promise.all(packages.map(async name=>{
  return {name,snapshot:history.at(-1)};
 }));
 const sum=key=>snapshots.reduce((total,item)=>total+(Number.isFinite(item.snapshot.npm?.[key])?item.snapshot.npm[key]:0),0);
-const week=sum('downloads7d'),day=sum('downloads24h'),stars=snapshots.reduce((total,item)=>total+(item.snapshot.github?.stars||0),0);
+const week=sum('downloads7d'),day=sum('downloads24h');
 const asOf=snapshots.map(item=>item.snapshot.date).sort()[0];
 const fmt=n=>new Intl.NumberFormat('en-US').format(n);
 const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="MCP ecosystem adoption metrics">
@@ -19,8 +19,8 @@ const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" view
 <g font-family="Arial,sans-serif" text-anchor="middle">
 <text x="160" y="139" font-size="42" font-weight="700" fill="#5eead4">6</text><text x="160" y="166" font-size="15" fill="#b4c3d6">Public MCP packages</text>
 <text x="440" y="139" font-size="42" font-weight="700" fill="#5eead4">${fmt(week)}</text><text x="440" y="166" font-size="15" fill="#b4c3d6">npm downloads / 7 days</text>
-<text x="735" y="139" font-size="42" font-weight="700" fill="#5eead4">${fmt(stars)}</text><text x="735" y="166" font-size="15" fill="#b4c3d6">GitHub stars</text></g>
-<text x="34" y="207" font-family="Arial,sans-serif" font-size="12" fill="#94a3b8">As of ${asOf} · ${fmt(day)} downloads / 24h · npm downloads are not unique users</text>
+<text x="735" y="139" font-size="42" font-weight="700" fill="#5eead4">${fmt(day)}</text><text x="735" y="166" font-size="15" fill="#b4c3d6">npm downloads / 24h</text></g>
+<text x="34" y="207" font-family="Arial,sans-serif" font-size="12" fill="#94a3b8">As of ${asOf} · npm downloads are not unique users</text>
 </svg>`;
 await mkdir('assets',{recursive:true});await writeFile('assets/mcp-ecosystem-stats.svg',svg);
-console.log({packages:packages.length,week,day,stars,asOf});
+console.log({packages:packages.length,week,day,asOf});
