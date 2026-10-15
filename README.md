@@ -10,6 +10,14 @@ Currently open to **B2B collaborations across worldwide**.
 
 ---
 
+## Coding income · last 6 complete months
+
+![Coding income from April to September 2026: €0 each month, €0 total](assets/coding-income-2026-apr-sep.svg)
+
+[![Hire me](https://img.shields.io/badge/Hire_me-238636?style=for-the-badge&logo=handshake&logoColor=white)](https://petrovicistefan.ro/en/)
+
+---
+
 ## What I do
 
 - ⚡ Build modern web applications with **Angular, React & Next.js**
