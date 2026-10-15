@@ -10,9 +10,9 @@ Currently open to **B2B collaborations across worldwide**.
 
 ---
 
-## Coding income · last 6 complete months
+## Human + AI · Building a better future together
 
-[![Six months of coding: April–September 2026, €0 each month. My code runs. My income doesn't. Hire me!](assets/coding-income-comic-white-2026-apr-sep.png)](https://petrovicistefan.ro/en/)
+[![Stefan and an AI companion working together to build a better future for everyone](assets/human-and-ai-together.png)](https://petrovicistefan.ro/en/)
 
 [![Hire me](https://img.shields.io/badge/Hire_me-238636?style=for-the-badge&logo=handshake&logoColor=white)](https://petrovicistefan.ro/en/)
 
