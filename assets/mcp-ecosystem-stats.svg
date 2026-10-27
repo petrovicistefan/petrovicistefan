@@ -4,7 +4,7 @@
 <text x="34" y="75" font-family="Arial,sans-serif" font-size="14" fill="#a7b8ce">Developer tools · GitHub + npm</text>
 <g font-family="Arial,sans-serif" text-anchor="middle">
 <text x="160" y="139" font-size="42" font-weight="700" fill="#5eead4">6</text><text x="160" y="166" font-size="15" fill="#b4c3d6">Public MCP packages</text>
-<text x="440" y="139" font-size="42" font-weight="700" fill="#5eead4">307</text><text x="440" y="166" font-size="15" fill="#b4c3d6">npm downloads / 7 days</text>
-<text x="735" y="139" font-size="42" font-weight="700" fill="#5eead4">122</text><text x="735" y="166" font-size="15" fill="#b4c3d6">npm downloads / 24h</text></g>
-<text x="34" y="207" font-family="Arial,sans-serif" font-size="12" fill="#94a3b8">As of 2026-10-26 · npm downloads are not unique users</text>
+<text x="440" y="139" font-size="42" font-weight="700" fill="#5eead4">0</text><text x="440" y="166" font-size="15" fill="#b4c3d6">npm downloads / 7 days</text>
+<text x="735" y="139" font-size="42" font-weight="700" fill="#5eead4">0</text><text x="735" y="166" font-size="15" fill="#b4c3d6">npm downloads / 24h</text></g>
+<text x="34" y="207" font-family="Arial,sans-serif" font-size="12" fill="#94a3b8">As of 2026-10-27 · npm downloads are not unique users</text>
 </svg>
