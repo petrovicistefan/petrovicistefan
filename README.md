@@ -12,9 +12,9 @@ Currently open to **B2B collaborations across worldwide**.
 
 ## Human + AI · Building a better future together
 
-[![Stefan and an AI companion working together to build a better future for everyone](assets/human-and-ai-together.png)](https://petrovicistefan.ro/en/)
+[![Stefan and an AI companion working together to build a better future for everyone](assets/human-and-ai-together.png)](https://petrovicistefan.ro/en/?utm_source=github&utm_medium=profile_readme&utm_campaign=hire_me&utm_content=banner_image)
 
-[![Hire me](https://img.shields.io/badge/Hire_me-238636?style=for-the-badge&logo=handshake&logoColor=white)](https://petrovicistefan.ro/en/)
+[![Hire me](https://img.shields.io/badge/Hire_me-238636?style=for-the-badge&logo=handshake&logoColor=white)](https://petrovicistefan.ro/en/?utm_source=github&utm_medium=profile_readme&utm_campaign=hire_me&utm_content=hire_button)
 
 ---
 
@@ -113,6 +113,6 @@ I can help with:
 
 **Based in Romania 🇷🇴 · Working with clients across worldwide**
 
-🌐 [petrovicistefan.ro](https://petrovicistefan.ro)
+🌐 [petrovicistefan.ro](https://petrovicistefan.ro/en/?utm_source=github&utm_medium=profile_readme&utm_campaign=hire_me&utm_content=footer_link)
 
 💼 [LinkedIn](https://www.linkedin.com/in/stefanpetrovici/)
